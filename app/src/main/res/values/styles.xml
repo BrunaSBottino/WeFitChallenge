@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="wefit">
+
+        <item name="android:textSize">
+            60sp
+        </item>
+
+        <item name="android:textColor">
+            #070707
+        </item>
+
+    </style>
+
+    <style name="appswefit_c">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:textColor">
+            #070707
+        </item>
+
+    </style>
+
+    <style name="favoritar">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #FFD02C
+        </item>
+
+    </style>
+
+    <style name="textCounterFavorites">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #9A9A9A
+        </item>
+
+    </style>
+
+    <style name="typescript">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #9A9A9A
+        </item>
+
+    </style>
+
+</resources>
