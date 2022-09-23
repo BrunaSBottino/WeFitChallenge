@@ -16,7 +16,7 @@
         android:gravity="top"
         android:text="@string/wefit"
         android:textAppearance="@style/wefit"
-        android:textColor="#070707"
+        android:textColor="@color/black"
         android:textSize="60sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

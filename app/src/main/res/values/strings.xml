@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">WeFit Challenge</string>
-    <string name="wefit">WeFit</string>
+    <string name="wefit"><b><b>We</b></b>Fit</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="yarn_worksp">Yarn Workspaces Monorepo support for Create-React-App / React-Scripts.</string>
     <string name="appswefit">appswefit/create-react-app</string>
     <string name="favoritar">Favoritar</string>
+    <string name="homeBottomSheetTitle">Alterar usuário selecionado</string>
+    <string name="homeBottomSheetButton">Salvar</string>
 </resources>
